@@ -33,9 +33,9 @@ Notes -
 
 #### 1. Decorator Pattern  
 A Decorator Pattern says that just  **"attach a flexible additional responsibilities to an object dynamically".** In other words, The Decorator Pattern uses composition instead of inheritance to extend the functionality of an object at runtime.  
-Java -  
-Kotlin -  
-Notes -  
+Java -  https://github.com/descifrador17/Design-Patterns/tree/master/Java/DecoratorPattern  
+Kotlin -  https://github.com/descifrador17/Design-Patterns/tree/master/Kotlin/DecoratorPattern  
+Notes -  https://github.com/descifrador17/Design-Patterns/tree/master/Notes/Decorator-Pattern  
 #### 2. Adapter Pattern  
 An Adapter Pattern says that just  **"converts the interface of a class into another interface that a client wants".** In other words, to provide the interface according to client requirement while using the services of a class with a different interface.  
 Java -  
