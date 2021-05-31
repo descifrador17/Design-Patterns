@@ -6,7 +6,7 @@ A **design pattern** systematically names, motivates and explains a general desi
 ### Types of Design Patterns
 - [**Creational Design Patterns**](#Creational-Design-Patterns) are concerned with the method of creating Objects.
 - [**Structural Design Patterns**](#Structural-Design-Patterns) deal with the composition of classes and objects which form larger structures.
-- [**Behavioral Design Patterns**](#Behavioral-Design-Patterns)are concerned with the responsibility and interaction between the objects.
+- [**Behavioral Design Patterns**](#Behavioral-Design-Patterns) are concerned with the responsibility and interaction between the objects.
 
 ## Creational Design Patterns
 
@@ -82,9 +82,9 @@ Notes - https://github.com/descifrador17/Design-Patterns/tree/master/Notes/Obser
 
 #### 3. Command Pattern  
 A Command Pattern says that "_encapsulate a request under an object as a command and pass it to invoker object. Invoker object looks for the appropriate object which can handle this command and pass the command to the corresponding object and that object executes the command_". It is also known as  **Action or Transaction.**  
-Java -  
-Kotlin -  
-Notes -  
+Java -  https://github.com/descifrador17/Design-Patterns/tree/master/Java/CommandPattern  
+Kotlin -  https://github.com/descifrador17/Design-Patterns/tree/master/Kotlin/CommandPattern  
+Notes -  https://github.com/descifrador17/Design-Patterns/tree/master/Notes/Command-Pattern  
 #### 4. Template Pattern  
 A Template Pattern says that **"just define the skeleton of a function in an operation, deferring some steps to its subclasses".**  
 Java -  
