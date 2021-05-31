@@ -38,9 +38,9 @@ Kotlin -  https://github.com/descifrador17/Design-Patterns/tree/master/Kotlin/De
 Notes -  https://github.com/descifrador17/Design-Patterns/tree/master/Notes/Decorator-Pattern  
 #### 2. Adapter Pattern  
 An Adapter Pattern says that just  **"converts the interface of a class into another interface that a client wants".** In other words, to provide the interface according to client requirement while using the services of a class with a different interface.  
-Java -  
-Kotlin -  
-Notes -  
+Java -  https://github.com/descifrador17/Design-Patterns/tree/master/Java/AdapterPattern  
+Kotlin -  https://github.com/descifrador17/Design-Patterns/tree/master/Kotlin/AdapterPattern  
+Notes -  https://github.com/descifrador17/Design-Patterns/tree/master/Notes/Adapter-Pattern  
 #### 3. Façade Pattern  
 A Facade Pattern says that just  **"just provide a unified and simplified interface to a set of interfaces in a subsystem, therefore it hides the complexities of the subsystem from the client".** In other words, Facade Pattern describes a higher-level interface that makes the sub-system easier to use.  
 Java -  
