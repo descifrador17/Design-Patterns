@@ -25,9 +25,9 @@ Singleton Pattern says that just **"define a class that has only one instance an
 1. **Early Instantiation:**  creation of instance at load time.
 2. **Lazy Instantiation:**  creation of instance when required.  
   
-Java -  
-Kotlin -  
-Notes -  
+Java - https://github.com/descifrador17/Design-Patterns/tree/master/Java/SingletonPattern  
+Kotlin - https://github.com/descifrador17/Design-Patterns/tree/master/Kotlin/SingletonPattern  
+Notes - https://github.com/descifrador17/Design-Patterns/tree/master/Notes/Singleton-Pattern  
 
 ## Structural Design Patterns
 
