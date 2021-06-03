@@ -43,9 +43,9 @@ Kotlin -  https://github.com/descifrador17/Design-Patterns/tree/master/Kotlin/Ad
 Notes -  https://github.com/descifrador17/Design-Patterns/tree/master/Notes/Adapter-Pattern  
 #### 3. Façade Pattern  
 A Facade Pattern says that just  **"just provide a unified and simplified interface to a set of interfaces in a subsystem, therefore it hides the complexities of the subsystem from the client".** In other words, Facade Pattern describes a higher-level interface that makes the sub-system easier to use.  
-Java -  
-Kotlin -  
-Notes -  
+Java -  https://github.com/descifrador17/Design-Patterns/tree/master/Java/FacadePattern  
+Kotlin -  https://github.com/descifrador17/Design-Patterns/tree/master/Kotlin/FacadePattern  
+Notes -  https://github.com/descifrador17/Design-Patterns/tree/master/Notes/Facade-Pattern  
 #### 4. Proxy Pattern  
 Simply, proxy means an object representing another object. According to GoF, a Proxy Pattern  **"provides the control for accessing the original object".** So, we can perform many operations like hiding the information of original object, on demand loading etc.  
 Java -  
