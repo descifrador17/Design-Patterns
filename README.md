@@ -48,9 +48,9 @@ Kotlin -  https://github.com/descifrador17/Design-Patterns/tree/master/Kotlin/Fa
 Notes -  https://github.com/descifrador17/Design-Patterns/tree/master/Notes/Facade-Pattern  
 #### 4. Proxy Pattern  
 Simply, proxy means an object representing another object. According to GoF, a Proxy Pattern  **"provides the control for accessing the original object".** So, we can perform many operations like hiding the information of original object, on demand loading etc.  
-Java -  
-Kotlin -  
-Notes -  
+Java -  https://github.com/descifrador17/Design-Patterns/tree/master/Java/ProxyPattern  
+Kotlin -  https://github.com/descifrador17/Design-Patterns/tree/master/Kotlin/ProxyPattern  
+Notes -  https://github.com/descifrador17/Design-Patterns/tree/master/Notes/Proxy-Pattern  
 #### 5. Bridge Pattern  
 A Bridge Pattern says that just **"decouple the functional abstraction from the implementation so that the two can vary independently".**  
 Java -  
