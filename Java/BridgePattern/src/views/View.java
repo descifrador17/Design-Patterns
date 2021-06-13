@@ -7,10 +7,13 @@ import resources.IResource;
  * Date: 13-06-2021
  * Time: 07:28 PM
  */
-public interface IView {
+abstract class View {
 
     IResource resource;
 
-    
+    public View(IResource resource) {
+        this.resource = resource;
+    }
 
+    public abstract String show();
 }
