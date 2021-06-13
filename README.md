@@ -53,9 +53,9 @@ Kotlin -  https://github.com/descifrador17/Design-Patterns/tree/master/Kotlin/Pr
 Notes -  https://github.com/descifrador17/Design-Patterns/tree/master/Notes/Proxy-Pattern  
 #### 5. Bridge Pattern  
 A Bridge Pattern says that just **"decouple the functional abstraction from the implementation so that the two can vary independently".**  
-Java -  
-Kotlin -  
-Notes -  
+Java -  https://github.com/descifrador17/Design-Patterns/tree/master/Java/BridgePattern  
+Kotlin -  https://github.com/descifrador17/Design-Patterns/tree/master/Kotlin/BridgePattern  
+Notes -  https://github.com/descifrador17/Design-Patterns/tree/master/Notes/Bridge-Pattern  
 #### 6. Composite Pattern  
 A Composite Pattern says that just **"allow clients to operate in generic manner on objects that may or may not represent a hierarchy of objects".**  
 Java -  
